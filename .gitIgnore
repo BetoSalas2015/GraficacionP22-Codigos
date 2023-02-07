@@ -1,0 +1,4 @@
+# Archivos a omitir en el reposiotorio
+*.class
+
+# Dierctorios a omitir en el repositorio
